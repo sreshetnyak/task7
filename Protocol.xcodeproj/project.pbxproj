@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A535B57D1897AE44007AE80B /* TTAnimal.m in Sources */ = {isa = PBXBuildFile; fileRef = A535B56E1897AE44007AE80B /* TTAnimal.m */; };
+		A535B57E1897AE44007AE80B /* TTKote.m in Sources */ = {isa = PBXBuildFile; fileRef = A535B5701897AE44007AE80B /* TTKote.m */; };
+		A535B57F1897AE44007AE80B /* TTDog.m in Sources */ = {isa = PBXBuildFile; fileRef = A535B5721897AE44007AE80B /* TTDog.m */; };
+		A535B5801897AE44007AE80B /* TTHuman.m in Sources */ = {isa = PBXBuildFile; fileRef = A535B5741897AE44007AE80B /* TTHuman.m */; };
+		A535B5821897AE44007AE80B /* TTSwimmer.m in Sources */ = {isa = PBXBuildFile; fileRef = A535B5781897AE44007AE80B /* TTSwimmer.m */; };
+		A535B5831897AE44007AE80B /* TTStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = A535B57A1897AE44007AE80B /* TTStudent.m */; };
+		A535B5841897AE44007AE80B /* TTRunner.m in Sources */ = {isa = PBXBuildFile; fileRef = A535B57C1897AE44007AE80B /* TTRunner.m */; };
+		A535B5871897AEFD007AE80B /* TTKangaroo.m in Sources */ = {isa = PBXBuildFile; fileRef = A535B5861897AEFD007AE80B /* TTKangaroo.m */; };
 		A5ABB8B81896E888009793F9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5ABB8B71896E888009793F9 /* Foundation.framework */; };
 		A5ABB8BA1896E888009793F9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5ABB8B91896E888009793F9 /* CoreGraphics.framework */; };
 		A5ABB8BC1896E888009793F9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5ABB8BB1896E888009793F9 /* UIKit.framework */; };
@@ -34,6 +42,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A535B56D1897AE44007AE80B /* TTAnimal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTAnimal.h; sourceTree = "<group>"; };
+		A535B56E1897AE44007AE80B /* TTAnimal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTAnimal.m; sourceTree = "<group>"; };
+		A535B56F1897AE44007AE80B /* TTKote.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTKote.h; sourceTree = "<group>"; };
+		A535B5701897AE44007AE80B /* TTKote.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTKote.m; sourceTree = "<group>"; };
+		A535B5711897AE44007AE80B /* TTDog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTDog.h; sourceTree = "<group>"; };
+		A535B5721897AE44007AE80B /* TTDog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTDog.m; sourceTree = "<group>"; };
+		A535B5731897AE44007AE80B /* TTHuman.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTHuman.h; sourceTree = "<group>"; };
+		A535B5741897AE44007AE80B /* TTHuman.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTHuman.m; sourceTree = "<group>"; };
+		A535B5771897AE44007AE80B /* TTSwimmer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTSwimmer.h; sourceTree = "<group>"; };
+		A535B5781897AE44007AE80B /* TTSwimmer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTSwimmer.m; sourceTree = "<group>"; };
+		A535B5791897AE44007AE80B /* TTStudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTStudent.h; sourceTree = "<group>"; };
+		A535B57A1897AE44007AE80B /* TTStudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTStudent.m; sourceTree = "<group>"; };
+		A535B57B1897AE44007AE80B /* TTRunner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTRunner.h; sourceTree = "<group>"; };
+		A535B57C1897AE44007AE80B /* TTRunner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTRunner.m; sourceTree = "<group>"; };
+		A535B5851897AEFD007AE80B /* TTKangaroo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTKangaroo.h; sourceTree = "<group>"; };
+		A535B5861897AEFD007AE80B /* TTKangaroo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTKangaroo.m; sourceTree = "<group>"; };
+		A535B5881897AF23007AE80B /* TTJumpers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TTJumpers.h; sourceTree = "<group>"; };
+		A535B5891897AF3E007AE80B /* TTSwimmers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TTSwimmers.h; sourceTree = "<group>"; };
+		A535B58A1897AF58007AE80B /* TTRunners.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TTRunners.h; sourceTree = "<group>"; };
 		A5ABB8B41896E888009793F9 /* Protocol.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Protocol.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5ABB8B71896E888009793F9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A5ABB8B91896E888009793F9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -117,6 +144,25 @@
 				A5ABB8EC1896E8D3009793F9 /* TTViewController.h */,
 				A5ABB8ED1896E8D3009793F9 /* TTViewController.m */,
 				A5ABB8EE1896E8D3009793F9 /* TTViewController.xib */,
+				A535B5881897AF23007AE80B /* TTJumpers.h */,
+				A535B5891897AF3E007AE80B /* TTSwimmers.h */,
+				A535B58A1897AF58007AE80B /* TTRunners.h */,
+				A535B56D1897AE44007AE80B /* TTAnimal.h */,
+				A535B56E1897AE44007AE80B /* TTAnimal.m */,
+				A535B56F1897AE44007AE80B /* TTKote.h */,
+				A535B5701897AE44007AE80B /* TTKote.m */,
+				A535B5711897AE44007AE80B /* TTDog.h */,
+				A535B5721897AE44007AE80B /* TTDog.m */,
+				A535B5851897AEFD007AE80B /* TTKangaroo.h */,
+				A535B5861897AEFD007AE80B /* TTKangaroo.m */,
+				A535B5731897AE44007AE80B /* TTHuman.h */,
+				A535B5741897AE44007AE80B /* TTHuman.m */,
+				A535B5771897AE44007AE80B /* TTSwimmer.h */,
+				A535B5781897AE44007AE80B /* TTSwimmer.m */,
+				A535B5791897AE44007AE80B /* TTStudent.h */,
+				A535B57A1897AE44007AE80B /* TTStudent.m */,
+				A535B57B1897AE44007AE80B /* TTRunner.h */,
+				A535B57C1897AE44007AE80B /* TTRunner.m */,
 				A5ABB8CF1896E888009793F9 /* Images.xcassets */,
 				A5ABB8BE1896E888009793F9 /* Supporting Files */,
 			);
@@ -250,9 +296,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A535B57F1897AE44007AE80B /* TTDog.m in Sources */,
+				A535B57E1897AE44007AE80B /* TTKote.m in Sources */,
 				A5ABB8C81896E888009793F9 /* TTAppDelegate.m in Sources */,
 				A5ABB8C41896E888009793F9 /* main.m in Sources */,
 				A5ABB8EF1896E8D3009793F9 /* TTViewController.m in Sources */,
+				A535B57D1897AE44007AE80B /* TTAnimal.m in Sources */,
+				A535B5831897AE44007AE80B /* TTStudent.m in Sources */,
+				A535B5841897AE44007AE80B /* TTRunner.m in Sources */,
+				A535B5871897AEFD007AE80B /* TTKangaroo.m in Sources */,
+				A535B5801897AE44007AE80B /* TTHuman.m in Sources */,
+				A535B5821897AE44007AE80B /* TTSwimmer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -453,6 +507,7 @@
 				A5ABB8E81896E888009793F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5ABB8E91896E888009793F9 /* Build configuration list for PBXNativeTarget "ProtocolTests" */ = {
 			isa = XCConfigurationList;
@@ -461,6 +516,7 @@
 				A5ABB8EB1896E888009793F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
